@@ -10,10 +10,6 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Threading;
 using System.Drawing.Imaging;
-//using AForge;
-//using AForge.Imaging;
-//using AForge.Math.Geometry;
-//using Point = System.Drawing.Point;
 
 namespace WindowsFormsApp2
 {
